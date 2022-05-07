@@ -1,0 +1,6 @@
+#Data collection
+#Data cleaning and manipulation
+-Descriptive and exploratory data analysis
+-Hypothesis testing (parametric and non-parametric)
+-Regression analysis
+-Predictive modeling
