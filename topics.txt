@@ -4,3 +4,4 @@
 -Hypothesis testing (parametric and non-parametric)
 -Regression analysis
 -Predictive modeling
+# pandas profiling 
